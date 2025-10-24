@@ -20,6 +20,8 @@ export default function PropertyListPage() {
     setLoading(true);
     try {
       const res = await fetch(API_BASE);
+      console.log('Fetching from:', API_BASE);
+
       const data = await res.json();
       setProperties(data);
     } catch (err) {

@@ -65,8 +65,15 @@
       "image": "/images/suburban_home.jpg",
       "lat": 14.4833,
       "lng": 120.8985
+    },
+    {
+      "id": "12b4",
+      "name": "asd",
+      "type": "sdf",
+      "price": 85,
+      "location": "adf",
+      "description": "sdf",
+      "image": "asd"
     }
-   
-   
   ]
 }

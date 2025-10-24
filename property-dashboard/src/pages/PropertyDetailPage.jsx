@@ -12,7 +12,7 @@ export default function PropertyDetailPage() {
   useEffect(() => {
     const load = async () => {
       try {
-        const res = await fetch(`${API_BASE}/${id}`);
+        const res = await fetch(API_BASE);
         const data = await res.json();
         setProperty(data);
       } catch (err) {
