@@ -1,0 +1,72 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Ocean View Villa",
+      "type": "Villa",
+      "price": 500000,
+      "location": "Cebu",
+      "description": "A lovely sea-side villa with open terraces and modern interiors, facing the sunrise.",
+      "image": "/images/ocean_villa.jpg",
+      "lat": 10.3157,
+      "lng": 123.8854
+    },
+    {
+      "id": "2",
+      "name": "Downtown Condo",
+      "type": "Condo",
+      "price": 175000,
+      "location": "Manila",
+      "description": "Compact, modern condo near transport, cafes, and nightlife. Ideal for young professionals.",
+      "image": "/images/downtown_condo.jpg",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    {
+      "id": "3",
+      "name": "Mountain Cabin Retreat",
+      "type": "Cabin",
+      "price": 240000,
+      "location": "Tagaytay",
+      "description": "Cozy wooden cabin surrounded by pine trees with a peaceful view of the lake.",
+      "image": "/images/mountain_cabin.jpg",
+      "lat": 14.0965,
+      "lng": 120.9335
+    },
+    {
+      "id": "4",
+      "name": "City Loft Apartment",
+      "type": "Apartment",
+      "price": 210000,
+      "location": "Quezon City",
+      "description": "Stylish loft apartment with tall windows, open floor plan, and access to co-working spaces.",
+      "image": "/images/city_loft.jpg",
+      "lat": 14.676,
+      "lng": 121.0437
+    },
+    {
+      "id": "5",
+      "name": "Beachfront Bungalow",
+      "type": "Bungalow",
+      "price": 400000,
+      "location": "Boracay",
+      "description": "Private beachfront bungalow with palm garden and direct access to white sand beaches.",
+      "image": "/images/beach_bungalow.jpg",
+      "lat": 11.9674,
+      "lng": 121.9248
+    },
+    {
+      "id": "6",
+      "name": "Suburban Family Home",
+      "type": "House",
+      "price": 320000,
+      "location": "Cavite",
+      "description": "Spacious family house in a gated community, near schools and shopping centers.",
+      "image": "/images/suburban_home.jpg",
+      "lat": 14.4833,
+      "lng": 120.8985
+    }
+   
+   
+  ]
+}
